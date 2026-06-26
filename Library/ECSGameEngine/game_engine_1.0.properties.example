@@ -1,0 +1,43 @@
+################################################################################
+# Description: Game Engine, application settings.
+# Version:     1.0
+# Date:        2014
+# Author:      Rohin Gosling
+################################################################################
+
+#-------------------------------------------------------------------------------
+# Class: Application
+#-------------------------------------------------------------------------------
+
+Application.Name            = Game Engine Implementation
+Application.Version.Major   = 1
+Application.Version.Minor   = 0
+Application.Screen.Width    = 800
+Application.Screen.Height   = 600
+Application.Language.Code   = 0
+Application.Logging.Enabled = true
+
+#-------------------------------------------------------------------------------
+# Class: GameEngine
+#-------------------------------------------------------------------------------
+
+GameEngine.Screen.Width        = 640
+GameEngine.Screen.Height       = 480
+GameEngine.Resource.Path       = R:\\Projects\\Academic\\CPD\\Java\\GameEngine\\images
+GameEngine.Logging.Enabled     = true
+GameEngine.DebugOverlay.Visible = false
+
+#-------------------------------------------------------------------------------
+# Class: GameLoop (TODO)
+#-------------------------------------------------------------------------------
+
+GameLoop.Name                     = Game Loop
+GameLoop.State.Start              = PAUSE
+GameLoop.FrameRate.Target.Enabled = true
+GameLoop.FrameRate.Target         = 90
+GameLoop.Delay.Fixed              = 5
+GameLoop.Logging.Enabled          = true
+
+#-------------------------------------------------------------------------------
+# Class:
+#-------------------------------------------------------------------------------

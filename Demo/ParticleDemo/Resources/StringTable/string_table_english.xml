@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StringTable language="English" languageNativeName="English" >
+    
+    <String id="IDS_EMPTY_STRING"                value=""                                      hotkey=""  />
+    <String id="IDS_TEST_HELLO_WORLD"            value="Hello World!"                          hotkey=""  />    
+    <String id="IDS_SYSTEM_GAME_STATE"           value="State"                                 hotkey=""  />    
+    <String id="IDS_SYSTEM_DATE_AND_TIME"        value="Date and Time"                         hotkey=""  />
+    <String id="IDS_SYSTEM_LOOP_PERIOD"          value="Loop Period"                           hotkey=""  />
+    <String id="IDS_SYSTEM_FRAME_RATE"           value="Frame Rate"                            hotkey=""  />    
+    <String id="IDS_SYSTEM_DATE_FORMAT"          value="yyyy-MM-dd"                            hotkey=""  />
+    <String id="IDS_SYSTEM_TIME_FORMAT"          value="HH:mm:ss"                              hotkey=""  />
+    <String id="IDS_SYSTEM_TIME_MS_FORMAT"       value=".SSS"                                  hotkey=""  />
+    <String id="IDS_GUI_GAME_LOOP_RUNNING"       value="Game Loop - Running"                   hotkey=""  />
+    <String id="IDS_GUI_MENU_MAIN"               value="Main Menu"                             hotkey=""  />
+    <String id="IDS_GUI_MENU_Settings"           value="Settings"                              hotkey=""  />
+    <String id="IDS_GUI_MENU_PLAY"               value="Play"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_PAUSE"              value="Game Paused"                           hotkey=""  />
+    <String id="IDS_GUI_MENU_STOP"               value="Game Stopped"                          hotkey=""  />
+    <String id="IDS_GUI_MENU_SETUP_GAME"         value="Setup Game"                            hotkey=""  />
+    <String id="IDS_GUI_MENU_DEMO"               value="Demo"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_TEST"               value="Test"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_DEBUG"              value="Debug"                                 hotkey=""  />
+    <String id="IDS_GUI_MENU_QUIT"               value="Quit Game"                             hotkey=""  />
+    <String id="IDS_GUI_PLAYER"                  value="Player"                                hotkey=""  />
+    <String id="IDS_GUI_LOOSE"                   value="To bad, now you wet!"                  hotkey=""  />
+    <String id="IDS_GUI_WIN"                     value="Congratulations, you are still dry!"   hotkey=""  />
+    <String id="IDS_GUI_OVERLAY"                 value="Overlay"                               hotkey=""  />    
+    <String id="IDS_SELECT_CHARACTER"            value="Character"                             hotkey=""  />    
+    <String id="IDS_CHARACTER_DOG"               value="Dog"                                   hotkey=""  />
+    <String id="IDS_CHARACTER_SMILEY"            value="Smiley"                                hotkey=""  />
+    <String id="IDS_CHARACTER_CRAZY_FACE"        value="Crazy Face"                            hotkey=""  />
+    <String id="IDS_CHARACTER_PURPLE_MONSTER"    value="Purple Monster"                        hotkey=""  />
+    <String id="IDS_SELECT_PLAYER_COUNT"         value="Number of Players"                     hotkey=""  />    
+    <String id="IDS_SELECT_DIFFICULTY"           value="Difficulty"                            hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_EASY"      value="Easy"                                  hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_MEDIUM"    value="Medium"                                hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_HARD"      value="Hard"                                  hotkey=""  />
+    <String id="IDS_YES"                         value="Yes"                                   hotkey="Y" />
+    <String id="IDS_NO"                          value="No"                                    hotkey="N" />
+    <String id="IDS_SETTINGS_LANGUAGE"           value="Language"                              hotkey=""  />
+    <String id="IDS_SETTINGS_LANGUAGE_ENGLISH"   value="English"                               hotkey=""  />
+    <String id="IDS_SETTINGS_LANGUAGE_KLINGON"   value="Klingon"                               hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY"          value="Time of Day"                           hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY_DAY"      value="Day"                                   hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY_NIGHT"    value="Night"                                 hotkey=""  />
+    <String id="IDS_SELECT_WEATHER"              value="Weather"                               hotkey=""  />
+    <String id="IDS_SELECT_WEATHER_RAIN"         value="Rain"                                  hotkey=""  />
+    <String id="IDS_SELECT_WEATHER_HAIL"         value="Hail"                                  hotkey=""  />    
+    <String id="IDS_PLAYER_NAME"                 value="Name"                                  hotkey=""  />
+    <String id="IDS_PLAYER_CLASS"                value="Player Class"                          hotkey=""  />
+    <String id="IDS_PLAYER_CLASS_HUMAN"          value="Human"                                 hotkey=""  />
+    <String id="IDS_PLAYER_CLASS_COMPUTER"       value="Computer"                              hotkey=""  />
+    <String id="IDS_PLAYER_SCORE"                value="Score"                                 hotkey=""  />
+    <String id="IDS_PLAYER_HIGH_SCORE"           value="High Score"                            hotkey=""  />
+    <String id="IDS_UNITS_MS"                    value="ms"                                    hotkey=""  />
+    <String id="IDS_UNITS_MIN"                   value="min"                                   hotkey=""  />
+    <String id="IDS_UNITS_SEC"                   value="sec"                                   hotkey=""  />
+    <String id="IDS_UNITS_FPS"                   value="fps"                                   hotkey=""  />
+    <String id="IDS_UNITS_TIME"                  value="Time"                                  hotkey=""  />
+    
+</StringTable>
+
+

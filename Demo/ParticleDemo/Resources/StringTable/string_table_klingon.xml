@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StringTable language="Klingon" languageNativeName="tlhIngan" >
+
+    <String id="IDS_EMPTY_STRING"                value=""                                      hotkey=""  />        
+    <String id="IDS_TEST_HELLO_WORLD"            value="qo' vIvan"                             hotkey=""  />    
+    <String id="IDS_SYSTEM_GAME_STATE"           value="overlieDotlh"                          hotkey=""  />
+    <String id="IDS_SYSTEM_DATE_AND_TIME"        value="poH"                                   hotkey=""  />
+    <String id="IDS_SYSTEM_LOOP_PERIOD"          value="jatlhqa' poH"                          hotkey=""  />
+    <String id="IDS_SYSTEM_FRAME_RATE"           value="ghItlhvam chaDvay'"                    hotkey=""  />
+    <String id="IDS_SYSTEM_DATE_FORMAT"          value="yyyy-MM-dd"                            hotkey=""  />
+    <String id="IDS_SYSTEM_TIME_FORMAT"          value="HH:mm:ss"                              hotkey=""  />
+    <String id="IDS_SYSTEM_TIME_MS_FORMAT"       value=".SSS"                                  hotkey=""  />
+    <String id="IDS_GUI_GAME_LOOP_RUNNING"       value="qa'vaQ qet."                           hotkey=""  />
+    <String id="IDS_GUI_MENU_MAIN"               value="potlhmo' HIDjoilev"                    hotkey=""  />
+    <String id="IDS_GUI_MENU_Settings"           value="DuH"                                   hotkey=""  />
+    <String id="IDS_GUI_MENU_PLAY"               value="chu'"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_PAUSE"              value="yev'"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_STOP"               value="mev'"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_SETUP_GAME"         value="DuH Qujmey"                            hotkey=""  />
+    <String id="IDS_GUI_MENU_DEMO"               value="'agh"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_TEST"               value="waH"                                   hotkey=""  />
+    <String id="IDS_GUI_MENU_DEBUG"              value="Qagh poj"                              hotkey=""  />
+    <String id="IDS_GUI_MENU_QUIT"               value="bup Qujmey"                            hotkey=""  />
+    <String id="IDS_GUI_PLAYER"                  value="chu'wI'"                               hotkey=""  />
+    <String id="IDS_GUI_LOOSE"                   value="qab, SoH yIQ"                          hotkey=""  />
+    <String id="IDS_GUI_WIN"                     value="majQa', SoH 'oH QaD"                   hotkey=""  />
+    <String id="IDS_GUI_OVERLAY"                 value="overlie"                               hotkey=""  />
+    <String id="IDS_SELECT_CHARACTER"            value="vuDmey'e' wIv"                         hotkey=""  />
+    <String id="IDS_CHARACTER_DOG"               value="Ha'DIbaH"                              hotkey=""  />
+    <String id="IDS_CHARACTER_SMILEY"            value="mon qaD"                               hotkey=""  />
+    <String id="IDS_CHARACTER_CRAZY_FACE"        value="maw' qaD"                              hotkey=""  />
+    <String id="IDS_CHARACTER_PURPLE_MONSTER"    value="Doq 'ej SuD roQ"                       hotkey=""  />
+    <String id="IDS_SELECT_PLAYER_COUNT"         value="DawI'pu' mI'"                          hotkey=""  />    
+    <String id="IDS_SELECT_DIFFICULTY"           value="vISov wIv"                             hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_EASY"      value="ngeD"                                  hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_MEDIUM"    value="medium"                                hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_HARD"      value="let"                                   hotkey=""  />
+    <String id="IDS_YES"                         value="HIja'"                                 hotkey="H" />
+    <String id="IDS_NO"                          value="Qo'"                                   hotkey="Q" />
+    <String id="IDS_SETTINGS_LANGUAGE"           value="Hol"                                   hotkey=""  />
+    <String id="IDS_SETTINGS_LANGUAGE_ENGLISH"   value="tera'"                                 hotkey=""  />
+    <String id="IDS_SETTINGS_LANGUAGE_KLINGON"   value="tlhIngan"                              hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY"          value="jaj poH"                               hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY_DAY"      value="jaj"                                   hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY_NIGHT"    value="ram"                                   hotkey=""  />
+    <String id="IDS_SELECT_WEATHER"              value="muD Dotlh"                             hotkey=""  />
+    <String id="IDS_SELECT_WEATHER_RAIN"         value="SIS"                                   hotkey=""  />
+    <String id="IDS_SELECT_WEATHER_HAIL"         value="rI"                                    hotkey=""  />    
+    <String id="IDS_PLAYER_NAME"                 value="pong"                                  hotkey=""  />
+    <String id="IDS_PLAYER_CLASS"                value="DawI'pu' Segh"                         hotkey=""  />
+    <String id="IDS_PLAYER_CLASS_HUMAN"          value="Human"                                 hotkey=""  />
+    <String id="IDS_PLAYER_CLASS_COMPUTER"       value="De'wI'"                                hotkey=""  />
+    <String id="IDS_PLAYER_SCORE"                value="pe''egh"                               hotkey=""  />
+    <String id="IDS_PLAYER_HIGH_SCORE"           value="jen pe''egh"                           hotkey=""  />    
+    <String id="IDS_UNITS_MS"                    value="mc"                                    hotkey=""  />
+    <String id="IDS_UNITS_MIN"                   value="tup"                                   hotkey=""  />
+    <String id="IDS_UNITS_SEC"                   value="cha"                                   hotkey=""  />
+    <String id="IDS_UNITS_FPS"                   value="gc"                                    hotkey=""  />
+    <String id="IDS_UNITS_TIME"                  value="poH"                                   hotkey=""  />
+        
+</StringTable>
+

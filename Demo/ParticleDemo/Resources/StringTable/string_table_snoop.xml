@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StringTable language="Snoop" languageNativeName="Snoop Dogg" >
+
+    <String id="IDS_EMPTY_STRING"                value=""                                              hotkey=""  />
+    <String id="IDS_TEST_HELLO_WORLD"            value="Wuz crackalackin' Ghetto hommie"               hotkey=""  />        
+    <String id="IDS_SYSTEM_GAME_STATE"           value="Stizzle"                                       hotkey=""  />        
+    <String id="IDS_SYSTEM_DATE_AND_TIME"        value="Dizzle n' Tizzle"                              hotkey=""  />    
+    <String id="IDS_SYSTEM_LOOP_PERIOD"          value="Loop Pizzle"                                   hotkey=""  />
+    <String id="IDS_SYSTEM_FRAME_RATE"           value="Frizzle Rizzle"                                hotkey=""  />        
+    <String id="IDS_SYSTEM_DATE_FORMAT"          value="yyyy-MM-dd"                                    hotkey=""  />
+    <String id="IDS_SYSTEM_TIME_FORMAT"          value="HH:mm:ss"                                      hotkey=""  />
+    <String id="IDS_SYSTEM_TIME_MS_FORMAT"       value=".SSS"                                          hotkey=""  />
+    <String id="IDS_GUI_GAME_LOOP_RUNNING"       value="Game Loop - Hustlin"                           hotkey=""  />
+    <String id="IDS_GUI_MENU_MAIN"               value="Main Mizzle Sizzle"                            hotkey=""  />    
+    <String id="IDS_GUI_MENU_Settings"           value="Settings n' Shit"                              hotkey=""  />
+    <String id="IDS_GUI_MENU_PLAY"               value="Letz play, yo"                                 hotkey=""  />
+    <String id="IDS_GUI_MENU_PAUSE"              value="Letz paused fo' a moment"                      hotkey=""  />
+    <String id="IDS_GUI_MENU_STOP"               value="Quit da Game"                                  hotkey=""  />
+    <String id="IDS_GUI_MENU_SETUP_GAME"         value="Set up da Game"                                hotkey=""  />
+    <String id="IDS_GUI_MENU_DEMO"               value="Demo yo"                                       hotkey=""  />
+    <String id="IDS_GUI_MENU_TEST"               value="Testin n' shit"                                hotkey=""  />
+    <String id="IDS_GUI_MENU_DEBUG"              value="Debuggin n' shit"                              hotkey=""  />
+    <String id="IDS_GUI_MENU_QUIT"               value="Kill da game, yo"                              hotkey=""  />
+    <String id="IDS_GUI_PLAYER"                  value="Don't hate da playa"                           hotkey=""  />
+    <String id="IDS_GUI_LOOSE"                   value="To bad, now you wet son!"                      hotkey=""  />
+    <String id="IDS_GUI_WIN"                     value="Congratulations, yo ass is still dry dawwwwg!" hotkey=""  />
+    <String id="IDS_GUI_OVERLAY"                 value="On top, da way you like it"                    hotkey=""  />    
+    <String id="IDS_SELECT_CHARACTER"            value="My Chizzle"                                    hotkey=""  />    
+    <String id="IDS_CHARACTER_DOG"               value="Dawg"                                          hotkey=""  />
+    <String id="IDS_CHARACTER_SMILEY"            value="Smiley"                                        hotkey=""  />
+    <String id="IDS_CHARACTER_CRAZY_FACE"        value="Crazy-Ass Face"                                hotkey=""  />
+    <String id="IDS_CHARACTER_PURPLE_MONSTER"    value="Purple Monsta"                                 hotkey=""  />
+    <String id="IDS_SELECT_PLAYER_COUNT"         value="My Crew"                                       hotkey=""  />    
+    <String id="IDS_SELECT_DIFFICULTY"           value="Difficulty"                                    hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_EASY"      value="Ta easy as fuck"                               hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_MEDIUM"    value="Not ta easy as fuck, but still not ta hard"    hotkey=""  />
+    <String id="IDS_SELECT_DIFFICULTY_HARD"      value="Hard, da way you like it"                      hotkey=""  />
+    <String id="IDS_YES"                         value="Yizzle"                                        hotkey="Y" />
+    <String id="IDS_NO"                          value="No"                                            hotkey="N" />
+    <String id="IDS_SETTINGS_LANGUAGE"           value="Language"                                      hotkey=""  />
+    <String id="IDS_SETTINGS_LANGUAGE_ENGLISH"   value="Gangsta"                                       hotkey=""  />
+    <String id="IDS_SETTINGS_LANGUAGE_KLINGON"   value="Klingon"                                       hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY"          value="Time of Dizzle"                                hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY_DAY"      value="Dizzle"                                        hotkey=""  />
+    <String id="IDS_SELECT_TIME_OF_DAY_NIGHT"    value="Night"                                         hotkey=""  />
+    <String id="IDS_SELECT_WEATHER"              value="Weather"                                       hotkey=""  />
+    <String id="IDS_SELECT_WEATHER_RAIN"         value="Rain"                                          hotkey=""  />
+    <String id="IDS_SELECT_WEATHER_HAIL"         value="Hail"                                          hotkey=""  />    
+    <String id="IDS_PLAYER_NAME"                 value="Name"                                          hotkey=""  />
+    <String id="IDS_PLAYER_CLASS"                value="Playa Clizzle"                                 hotkey=""  />
+    <String id="IDS_PLAYER_CLASS_HUMAN"          value="Boy playa, girl playa"                         hotkey=""  />
+    <String id="IDS_PLAYER_CLASS_COMPUTER"       value="Computer"                                      hotkey=""  />
+    <String id="IDS_PLAYER_SCORE"                value="Scorizzle"                                     hotkey=""  />
+    <String id="IDS_PLAYER_HIGH_SCORE"           value="High Scorizzle"                                hotkey=""  />
+    <String id="IDS_UNITS_MS"                    value="ms"                                            hotkey=""  />
+    <String id="IDS_UNITS_MIN"                   value="min"                                           hotkey=""  />
+    <String id="IDS_UNITS_SEC"                   value="sec"                                           hotkey=""  />
+    <String id="IDS_UNITS_FPS"                   value="fps"                                           hotkey=""  />
+    <String id="IDS_UNITS_TIME"                  value="Da Tizzle"                                     hotkey=""  />
+        
+</StringTable>
+
